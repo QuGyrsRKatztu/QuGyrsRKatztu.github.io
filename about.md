@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-# About This Press
+# ABOUT THIS PRESS
 
 QuGyrs R. Katztu Press is an independent artist press. It furthers the objective
 of pursuing artistic freedom and expression by publishing materials locally.
