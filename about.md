@@ -1,5 +1,4 @@
 ---
-layout: default
 title: About
 ---
 # ABOUT THIS PRESS
@@ -12,3 +11,7 @@ of pursuing artistic freedom and expression by publishing materials locally.
 Artists whose work has been published by QuGyrs R. Katztu Press include Katarina Hoeger and Sirini Zabini.
 
 If you have questions about the press email [Katarina Hoeger](mailto:katarina@katarinahoeger.com).
+
+## QRK Numbers
+The QRK number system helps identify your work.
+For example, QRK M7_2 20200701 : S0 ⊂ {S0, . . . , S20}
